@@ -1,0 +1,12 @@
+{
+    "name": "adam/php-image-uploading",
+    "require": {
+        "smottt/wideimage": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "Adam",
+            "email": "thomasadam83@hotmail.com"
+        }
+    ]
+}
